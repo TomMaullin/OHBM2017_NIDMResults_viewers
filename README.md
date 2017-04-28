@@ -11,4 +11,4 @@ SPM viewer:
 FSL viewer: 
  - Single subject FSL analysis: [preview](https://rawgit.com/incf-nidash/OHBM2017_NIDMResults_viewers/master/OHBM%20HTML/fsl_default_in_fsl/stats.html)
 
-The NIDM-Results packs are available in [NeuroVault (1692)](neurovault.org/collections/1692/).
+The NIDM-Results packs are available in [NeuroVault (1692)](http://neurovault.org/collections/1692/).

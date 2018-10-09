@@ -1,14 +1,39 @@
-## NIDM-Results viewers: examples of HTML displays 
+# Interoperability of statistical results between neuroimaging software 
 
-This repository contains examples of HTML outputs created with the NIDM-Results viewers for [SPM](https://github.com/incf-nidash/nidmresults-spmhtml) and [FSL](https://github.com/incf-nidash/nidmresults-fslhtml):
+This repository contains the figures used in the paper in which we introduce NIDM-Results viewers for both SPM and FSL, allowing NIDM-Results data to be read and displayed in both environments. The aforementioned viewers are publically available at https://github.com/incf-nidash/nidmresults-spmhtml and https://github.com/incf-nidash/nidmresults-fslhtml respectively. 
+  
+## Table of contents
+   * [How to cite?](#how-to-cite)
+   * [Contents overview](#contents-overview)
+   * [Reproducing figures and tables](#reproducing-figures-and-tables)
+      * [Table 1](#table-1)
+      * [Fig. 1](#fig-1)
+      * [Fig. 2](#fig-2)
+   * [Reproducing full analysis](#reproducing-full-analysis)
 
-SPM viewer: 
- - Group SPM analysis: [preview](https://rawgit.com/incf-nidash/OHBM2017_NIDMResults_viewers/master/OHBM%20HTML/spm_group_ols_in_spm.html)
- - Single subject SPM analysis: [preview](https://rawgit.com/incf-nidash/OHBM2017_NIDMResults_viewers/master/OHBM%20HTML/spm_default_in_spm.html)
- - Group FSL analysis: [preview](https://rawgit.com/incf-nidash/OHBM2017_NIDMResults_viewers/master/OHBM%20HTML/fsl_group_ols_in_spm.html)
- - Single subject FSL analysis: [preview](https://rawgit.com/incf-nidash/OHBM2017_NIDMResults_viewers/master/OHBM%20HTML/fsl_default_in_spm.html)
+## How to cite?
 
-FSL viewer: 
- - Single subject FSL analysis: [preview](https://rawgit.com/incf-nidash/OHBM2017_NIDMResults_viewers/master/OHBM%20HTML/fsl_default_in_fsl/stats.html)
+See [CITATION](CITATION).
 
-The NIDM-Results packs are available in [NeuroVault (1692)](http://neurovault.org/collections/1692/).
+# Contents overview
+
+<Summarise what's in this repository>
+
+## Reproducing figures and tables
+
+<Instructions on how to use summary/derived data in the `results` directory to create figures and tables>
+
+<Specify precise steps, including any datasets that need to be downloaded and path variables that need to be set>
+
+### Table 1
+
+### Fig. 1
+
+### Fig. 2
+
+## Reproducing full analysis
+
+<Instructions on how to (1) obtain raw data; (2) process it to create summary/derived data in the `results`>
+
+<Specify precise steps, including any datasets that need to be downloaded and path variables that need to be set>
+
